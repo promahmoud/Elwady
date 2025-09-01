@@ -2338,12 +2338,13 @@
 	z-index:1;
 	border-radius:8px;
 	display:inline-block;
+	width:531px
 }
 
 .about-two_image-two{
 	position:absolute;
 	right:60px;
-	bottom:0px;
+	bottom:100px;
 	overflow:hidden;
 	border-radius:8px;
 	display:inline-block;
