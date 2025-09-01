@@ -2491,6 +2491,7 @@
 	position:relative;
 	width:100%;
 	display:block;
+	height: 282px;
 }
 
 .service-block_three-inner:hover .service-block_three-image img{
